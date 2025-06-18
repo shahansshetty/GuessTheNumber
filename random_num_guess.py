@@ -2,7 +2,7 @@
 import random 
 
 com_num=random.randint(1,100)
-print(com_num)
+
 print("*--------------------------------------*")
 print("|                                      |")
 print("| Welcome to the Number guessing game! |")
