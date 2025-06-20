@@ -12,13 +12,13 @@
 
 ->you give the number and computer guesses it .
 
-![Mode_1](guess_the_num\images\Screenshot 2025-06-20 221519.png)
+![Mode_1](Mode_1.png)
 
 ->mode 2:
 
 ->computer generates a random number using random.randint() function and the value is stored in com_num
 
-![Mode_2](guess_the_num\images\Screenshot 2025-06-20 221749.png)
+![Mode_2](Mode_2.png)
 
 ->you have to guess the number and you have 10 tries .
 
