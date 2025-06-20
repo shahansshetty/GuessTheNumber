@@ -1,12 +1,12 @@
 ->This is a simple random numbers guessing game made using python.
 
+![image_1](select_mode.png)
+
 ->To run this program you need python or python3 in your computer
 
 ->Fist copy or clone this program . cd to your directory and run the program using this command in cmd 'python random_num_guess.py'
 
 ->There are 2 modes
-
-![image_1](select_mode.png)
 
 ->mode 1:
 
