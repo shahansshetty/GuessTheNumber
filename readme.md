@@ -6,7 +6,7 @@
 
 ->There are 2 modes
 
-![image_1](Screenshot 2025-06-20 221407.png)
+![image_1](select_mode.png)
 
 ->mode 1:
 
