@@ -6,7 +6,7 @@
 
 ->There are 2 modes
 
-![image_1](C:\Users\Lenovo\Desktop\python\python_projects\guess_the_num\images\Screenshot 2025-06-20 221407.png)
+![image_1](Screenshot 2025-06-20 221407.png)
 
 ->mode 1:
 
