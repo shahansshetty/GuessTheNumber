@@ -12,7 +12,7 @@
 
 ->you give the number and computer guesses it .
 
-![Mode_1](Mode_1.png)
+![Mode_1](C:\Users\Lenovo\Desktop\python\python_projects\guess_the_num\images\Mode_1.png)
 
 ->mode 2:
 
